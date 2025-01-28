@@ -61,7 +61,7 @@ st.title("Soccer Match Outcome Predictor")
 st.write("Input match statistics to predict if Oberlin will win.")
 
 # Input Fields
-Opponent_Record = st.slider("Opponent Record", 0.0, 1.0, step=0.01, value=0.5)
+Opponent_Record = st.slider("Opponent Record (win percentage)", 0.0, 1.0, step=0.01, value=0.5)
 Oberlin_Shots = st.slider("Oberlin Shots", 0, 25, step=1, value=12)
 Opponent_Shots = st.slider("Opponent Shots", 0, 25, step=1, value=10)
 Oberlin_Fouls = st.slider("Oberlin Fouls", 0, 20, step=1, value=5)
@@ -100,12 +100,7 @@ if st.button("Predict"):
     else:
         st.error(f"Prediction: Loss/Draw ({(1 - probability) * 100:.2f}% confidence)")
 
-# Display Model Evaluation Metrics (Optional)
-st.subheader("Model Evaluation")
-accuracy = accuracy_score(y_test, y_pred := optimized_rf.predict(X_test))
-st.write(f"Accuracy: {accuracy:.4f}")
-st.write("Classification Report:")
-st.text(classification_report(y_test, y_pred))
+
 
 # Feature Importance (Optional Visualization)
 st.subheader("Feature Importance")
