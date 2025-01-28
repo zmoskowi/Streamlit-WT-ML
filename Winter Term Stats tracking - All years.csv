@@ -1,0 +1,83 @@
+Date,Opponent,Opponent Record,Result,Oberlin Shots,Opponent Shots,Oberlin Fouls,Opponent Fouls,Oberlin Goals,Opponent Goals,Passes Completed,Pass percentage,Conference,Home/Away
+8/25/19,Capital,0.537,Win,5,7,5,12,2,1,409,85,No,Home 
+8/30/19,John Carroll,0.826,Loss,5,20,10,9,2,3,221,77,No,Away
+9/1/2019,Marietta,0.525,Loss,7,12,10,11,1,4,370,71,No,Home
+9/4/2019,Otterbein,0.65,Loss,5,22,10,10,1,4,372,74,No,Away
+9/7/2019,D'Youville,0.4,Win,27,12,9,11,6,2,504,84,No,Home
+9/11/19,Grove City,0.44,Win,11,9,8,11,2,1,436,77,No,Home
+9/14/19,Ohio Northern,0.659,Loss,6,18,9,11,0,4,324,77,No,Home
+9/18/19,Baldwin Wallace,0.55,Win,15,8,13,4,2,1,438,75,No,Home
+9/21/19,Heidelberg,0.265,Win,2,8,4,9,1,0,449,79,No,Home
+9/25/19,Westminster College,0.75,Loss,19,9,8,10,2,3,484,86,No,Away
+9/28/2019,Depauw University,0.583,Loss,13,11,9,12,1,2,405,83,Yes,Away
+10/5/2019,Ohio Wesleyan University,0.708,Loss,9,16,11,12,0,5,403,84,Yes,Home
+10/11/2019,Wittenberg University,0.316,Win,10,12,12,7,1,0,361,69,Yes,Away
+10/16/2019,Allegheny College,0.25,Win,16,11,7,9,2,1,383,73,Yes,Home
+10/19/2019,Hiram College,0.222,Win,12,9,5,12,2,1,403,74,Yes,Home
+10/22/2019,Denison University,0.441,Loss,16,17,6,7,1,4,325,72,Yes,Away
+10/26/2019,College of Wooster,0.333,Win,10,19,13,11,3,2,394,52,Yes,Away
+10/30/2019,Kenyon College,0.87,Loss,10,25,13,10,1,5,297,68,Yes,Away
+11/2/2019,Wabash College,0.605,Win,16,10,15,11,1,0,400,80,Yes,Home
+9/1/2021,Grove City College,0.5,Win,9,4,12,12,4,1,444,80,No,Away
+9/4/2021,Bethany College,0.553,Win,8,6,4,12,2,0,579,74,No,Away
+9/7/2021,Capital University,0.537,Loss,10,19,12,16,0,5,413,84,No,Home 
+9/10/2021,Spalding University,0.619,Draw,12,7,4,6,2,2,346,78,No,Away
+9/11/2021,Centre College,0.632,Loss,6,14,5,11,1,2,299,73,No,Away
+9/15/21,Otterbein,0.81,Loss,6,22,6,12,2,4,400,80,No,Home
+9/18/21,Alma College,0.188,Loss,7,6,8,4,1,4,350,81,No,Away
+9/22/21,Westminster College,0.571,Loss,14,9,12,14,0,2,410,80,No,Home
+9/25/21,Depauw University,0.556,Win,13,10,8,8,2,1,387,77,Yes,Home
+9/28/21,Baldwin Wallace University,0.35,Draw,12,21,13,16,2,2,401,80,No,Away
+10/2/2021,Ohio Wesleyan University,0.8,Loss,8,19,5,11,1,3,208,66,Yes,Away
+10/9/2021,Wittenberg University,0.412,Draw,22,9,11,21,2,2,370,73,Yes,Home
+10/13,Allegheny College,0.353,Win,20,10,7,12,2,1,363,67,Yes,Away
+10/16/2021,Hiram College,0.235,Win,19,6,6,10,3,1,478,80,Yes,Away
+10/19/2021,Denison University,0.684,Loss,9,9,4,11,1,2,379,82,Yes,Home
+10/23/2021,College of Wooster,0.556,Loss,10,3,7,8,1,2,523,84,Yes,Home
+10/27/2021,Kenyon College,0.825,Loss,5,22,11,10,2,3,337,78,Yes,Home
+10/30/2021,Wabash College,0.632,Draw,10,17,10,16,1,1,462,63,Yes,Away
+9/1/2022,John Carroll University,0.75,Loss,15,13,10,12,0,2,396,75,No,Home 
+9/2/2022,Ohio Northern University,0.705,Loss,5,14,12,15,1,3,297,74,No,Away
+9/7/2022,Grove City College,0.694,Win,15,18,7,5,3,2,407,84,No,Home
+9/10/2022,Chatham College,0.281,Win,16,8,6,8,2,1,425,85,No,Home
+9/11/2022,Bethany College,0.571,Loss,21,11,13,13,0,2,349,75,No,Home
+9/17/2022,Alma College,0.233,Win,19,8,11,12,4,0,496,79,No,Home
+9/24/2022,Wabash College,0.658,Loss,12,17,12,16,2,3,385,80,Yes,Home
+9/28/2022,Allegheny College,0.412,Win,24,11,11,9,6,2,462,84,No,Home
+10/1/2022,Ohio Wesleyan University,0.65,Loss,2,14,6,9,0,1,380,73,Yes,Home
+10/8/2022,Denison University,0.639,Draw,11,15,3,6,0,0,454,80,Yes,Home
+10/11/2024,Kenyon College,0.886,Loss,7,21,7,13,0,5,456,73,Yes,Home
+10/14/2022,Wittenberg University,0.531,Loss,12,14,7,7,1,2,415,72,Yes,Away
+10/19/2022,Hiram College,0.062,Win,29,2,9,2,5,1,479,86,Yes,Home
+10/22/2022,Depauw University,0.472,Draw,13,13,9,11,2,2,315,71,Yes,Away
+10/26/2022,College of Wooster,0.44,Draw,13,14,12,14,2,2,449,68,Yes,Away
+9/1/2023,John Carroll University,0.682,Loss,4,12,9,12,1,2,224,61,No,Away
+9/3/2023,Ohio Northern University,0.652,Loss,4,13,10,12,0,4,303,76,No,Home 
+9/6/2023,Grove City College,0.575,Draw,8,11,6,8,0,0,353,78,No,Away
+9/9/2023,Chatham University,0.417,Win,20,10,9,11,4,1,567,85,No,Away
+9/16/2023,Defiance College,0.5,Draw,26,6,6,6,2,2,577,87,No,Home
+9/20/2023,Capital University,0.574,Loss,13,9,7,12,0,2,409,82,No,Home
+9/23/2023,Heidelberg University,0.194,Draw,15,4,8,7,0,0,443,81,No,Away
+9/26/2023,Baldwin Wallace University,0.421,Win,10,11,7,11,1,0,377,73,No,Home
+9/30/2023,The College of Wooster,0.441,Draw,10,16,7,11,2,2,527,82,Yes,Home
+10/4/2023,Denison University,0.675,Draw,11,18,9,12,0,0,305,78,Yes,Home
+10/7/2023,Ohio Wesleyan University,0.675,Loss,4,16,5,12,0,2,235,83,Yes,Away
+10/21/2023,Wittenbeeg University,0.625,Draw,10,12,8,9,2,2,393,83,Yes,Home
+8/30/2024,John Carroll University,0.65,Loss,2,5,9,13,0,2,282,73,No,Home 
+9/1/2024,Ohio Northern University,0.727,Loss,5,12,10,14,4,0,298,86,No,Away
+9/4/2024,Grove City College,0.711,Loss,11,10,8,11,1,2,407,78,No,Home
+9/7/2024,Chatham University,0.526,Win,19,11,11,10,3,1,443,86,No,Home
+9/12/2024,Allegheny College,0.405,Loss,12,8,10,17,0,1,484,86,No,Away
+9/14/2024,Muskingum University,0.263,Win,14,3,15,18,1,0,399,74,No,Away
+9/18/2024,Otterbein University,0.614,Loss,9,10,13,12,0,3,444,77,No,Home
+9/21/2024,Heidelberg University,0.118,Win,15,4,10,22,3,0,542,81,No,Home
+9/25/2024,Baldwin Wallace University,0.475,Draw,12,12,17,17,1,1,449,70,No,Away
+9/28/2024,Washington and Jefferson College,0.395,Win,15,6,8,9,3,1,594,76,No,Away
+10/5/2024,College of Wooster,0.44,Loss,13,13,4,13,2,3,466,80,Yes,Away
+10/9/2024,Denison University,0.783,Loss,4,12,7,9,0,1,371,67,Yes,Away
+10/13/2024,Ohio Wesleyan University,0.675,Loss,8,16,9,5,1,2,414,79,Yes,Home
+10/19/2024,Depauw University,0.619,Loss,6,12,6,24,1,3,483,72,Yes,Away
+10/23/2024,Hiram College,0.235,Win,17,5,8,11,4,0,489,79,Yes,Home
+10/26/2024,Wittenberg University,0.393,Draw,10,15,15,10,2,2,311,70,Yes,Away
+10/30/2024,Kenyon College,0.738,Loss,7,15,4,6,1,2,274,61,Yes,Home
+11/2/2024,Wabash College,0.611,Win,13,11,8,15,5,1,368,75,Yes,Home
